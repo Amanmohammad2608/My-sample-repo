@@ -1,1 +1,1 @@
-This is hotfix and this is another commit
+This is hotfix and this is another commit, now it is another one
